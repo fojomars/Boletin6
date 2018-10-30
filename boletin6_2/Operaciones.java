@@ -18,7 +18,7 @@ public class Operaciones {
         num2 = Short.parseShort(JOptionPane.showInputDialog("Teclea el segundo número:"));
         
         if(num1>=num2){
-            System.out.println("La resta es: " + (num1-num2));
+            System.out.println("La resta es: " + (num1-num2) );
         }
         else{
             System.out.println("La suma es: " + (num1+num2));
