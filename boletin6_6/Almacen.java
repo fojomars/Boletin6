@@ -30,6 +30,5 @@ public class Almacen {
         else{
             JOptionPane.showMessageDialog(null, "El producto " + nomProducto + " es de primera necesidad");
         }
-
     }
 }

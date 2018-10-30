@@ -19,5 +19,4 @@ public class Boletin6_6 {
         Almacen obxProductos = new Almacen();
         obxProductos.vendasAnuales();
     }
-    
 }
