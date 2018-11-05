@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package boletin6_7;
-import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
 
 /**
